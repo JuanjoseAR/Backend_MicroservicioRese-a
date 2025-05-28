@@ -1,0 +1,7 @@
+com\service\coneccionBD\MongoBDConnection.class
+com\service\resenaDAO\ReviewDAO.class
+com\service\resenaDTO\ReviewDTO.class
+com\service\validation\ReviewValidator.class
+Pruebaconexion.class
+com\service\resenamodel\Review.class
+com\service\resenacontroller\ReviewServlet.class
